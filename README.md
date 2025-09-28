@@ -124,6 +124,4 @@ demo.launch(share=True)
 
 Realizzato da **deliriodelluna**  come progetto didattico e portfolio di linguistica computazionale.
 
----
 
-Vuoi che ti crei anche una **versione breve e minimal del README** (solo intro, workflow e quick start), così puoi usarla su GitHub se vuoi dare un colpo d’occhio rapido?
