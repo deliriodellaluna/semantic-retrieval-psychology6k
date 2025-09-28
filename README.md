@@ -1,7 +1,7 @@
 
 # Q→A Retrieval System – Psychology-6k
 
-*by [deliriodelluna]([https://github.com/deliriodelluna])*
+*by [deliriodelluna](https://github.com/deliriodelluna)*
 
 ## 🌐 Introduzione
 
